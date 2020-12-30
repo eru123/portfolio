@@ -1,18 +1,131 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <h1>Home</h1>
+    <div>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+    </div>
+    <div>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+    </div>
+    <div>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, dolorum
+        corporis. Adipisci soluta perferendis eius sed neque eos, doloremque
+        quia atque nemo, animi porro. Ullam optio iusto rerum fugit odit!
+      </p>
+    </div>
   </div>
 </template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "Home",
-  components: {
-    HelloWorld
-  }
-};
-</script>
