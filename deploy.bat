@@ -1,1 +1,1 @@
-cls && yarn build:deploy && cd docs && git add . && git commit -am "Deploy" && git push && cd ../
+cls && yarn build:deploy && cd docs && git add . && cd ../ && git commit -am "Deploy" && git push && echo "\n\nSuccess!"
