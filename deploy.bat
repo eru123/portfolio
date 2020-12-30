@@ -1,1 +1,1 @@
-cls && yarn build:deploy && git add docs && git commit -am "Deploy" && git push
+cls && yarn lint && yarn build:deploy && git add docs && git commit -am "Deploy" && git push
