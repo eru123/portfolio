@@ -1,1 +1,1 @@
-cls && cd docs && git add . && git commit -am "Deploy" && git push && cd ../
+cls && yarn build:deploy && cd docs && git add . && git commit -am "Deploy" && git push && cd ../
